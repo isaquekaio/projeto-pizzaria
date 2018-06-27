@@ -1,0 +1,10 @@
+C:\Users\André Lbc\source\repos\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojResolveAssemblyReference.cache
+C:\Users\André Lbc\source\repos\Pizzaria\Pizzaria\obj\Debug\CadastroFuncionario.g.cs
+C:\Users\André Lbc\source\repos\Pizzaria\Pizzaria\obj\Debug\Login.g.cs
+C:\Users\André Lbc\source\repos\Pizzaria\Pizzaria\obj\Debug\MainMenu.g.cs
+C:\Users\André Lbc\source\repos\Pizzaria\Pizzaria\obj\Debug\Menu.g.cs
+C:\Users\André Lbc\source\repos\Pizzaria\Pizzaria\obj\Debug\App.g.cs
+C:\Users\André Lbc\source\repos\Pizzaria\Pizzaria\obj\Debug\Pizzaria_MarkupCompile.cache
+C:\Users\André Lbc\source\repos\Pizzaria\Pizzaria\obj\Debug\Pizzaria_MarkupCompile.lref
+C:\Users\André Lbc\source\repos\Pizzaria\Pizzaria\obj\Debug\CadastroCliente.g.cs
+C:\Users\André Lbc\source\repos\Pizzaria\Pizzaria\obj\Debug\Pedidos.g.cs
