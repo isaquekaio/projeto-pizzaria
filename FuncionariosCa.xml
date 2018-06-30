@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<ArrayOfMFuncionario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MFuncionario>
+    <Id>1</Id>
+    <Login>admin</Login>
+    <Senha>fEqNCco3Yq9h5ZUglD3CZJT4lBs=</Senha>
+    <Nascimento>2018-06-29T00:00:00-03:00</Nascimento>
+  </MFuncionario>
+</ArrayOfMFuncionario>
